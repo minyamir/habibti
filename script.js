@@ -32,10 +32,10 @@
         question: "Habibti, Did you miss me?",
         answers: [
           { text: "Yes, so much!", feedback: "Aww 🥹 You're the best! 💛" },
-          { text: "Every single second.", feedback: "That’s loyalty! 🫶" },
-          { text: "I couldn’t stop thinking of you.", feedback: "That’s deep and sweet 💖" },
-          { text: "Yes, now let’s shine together!", feedback: "so did  i,Let’s do it together" },
-          { text: "NO, I only see my goal.", feedback: "ESHI 😢😔😔😔😔😔😔" },
+          { text: "I don't know,what I feel about you   ", feedback: "okay , don't bother " },
+          { text: "I couldn’t stop thinking of you. 🤭", feedback: "That’s deep and sweet 💖" },
+          { text: "Yes  😉, now let’s shine together!", feedback: "so did  i,Let’s do it together 💪" },
+          { text: "NO, I only see my goal.", feedback: "eshi smetshn akebralew gn bewnet ydebral smetu😢😔😔😔😔😔😔 gn tata yelewm " },
         ]
       },
     ];
