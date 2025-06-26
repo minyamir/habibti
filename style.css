@@ -52,7 +52,7 @@
     h1 {
       font-size: 3em;
       color: #00ff00;
-      text-shadow: 0 0 12px #fff066;
+      
       margin-bottom: 0.2em;
       animation: glow 3s ease-in-out infinite;
     }
